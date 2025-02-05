@@ -20,8 +20,11 @@ How well those variables describe the bike demands
 Comparision between Training and Testing dataset:
 
 Train dataset R^2 : 0.839
+
 Test dataset R^2 : 0.7966
+
 Train dataset Adjusted R^2 : 0.835
+
 Test dataset Adjusted R^2 : 0.7848 
 
 Demand of bikes depend on below features,
